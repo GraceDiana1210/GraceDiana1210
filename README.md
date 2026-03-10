@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yu Nandar Aung</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<img width="573" height="549" alt="image" src="https://github.com/user-attachments/assets/0a848604-4c24-4c95-93d6-271ca5ed0d4b" /><h1 align="center">Hi 👋, I'm Yu Nandar Aung</h1>
+<h3 align="center">A passionate web developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740">
 
 
